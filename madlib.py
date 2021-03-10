@@ -1,0 +1,13 @@
+adjective1 = input("Enter an adjective: ")
+place1 = input("Enter a place: ")
+transportation = input("Enter a mode of transport: ")
+noun1 = input("Enter a noun: ")
+emotion = input("Enter an emotion: ")
+place2 = input("Enter another place: ")
+food = input("Enter a type of food: ")
+past_verb = input("Enter a past tense verb: ")
+noun2 = input("Enter another noun: ")
+
+print("Today I went to the " + adjective1 + " " + place1 + ". I went there by " + transportation + ".")
+print("Inside, there was a " + noun1 + "! I was very " + emotion + ".")
+print("Then I went to the " + place2 + ", I got some " + food + ", and then " + past_verb + " with my " + noun2 + ".")
