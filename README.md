@@ -12,4 +12,4 @@ In "guessing game" I applies a combination of booleans, while loops, and if stat
 
 In "what year were you born" I practiced my if statements by creating a short program that asks how old you are and calculates what year you were born. It can correct itself by asking a follow up question of one year earlier with a tweaked equation. (This is to account for people who already had their birthday this year!) 3/12/2021
 
-In "for loop" I learned how to apply the function to create a sequence of "loves me, loves me not, loves me" (like the flower petal game) in a range of numbers. ( I arbitrarily picked 307) I applied one condition for every odd number and the other for evens. I also learned how to use # to add notes to my programs!
+In "for loop" I learned how to apply the function to create a sequence of "loves me, loves me not, loves me" (like the flower petal game) in a range of numbers. ( I arbitrarily picked 307) I applied one condition for every odd number and the other for evens. I also learned how to use # to add notes to my programs! 3/12/21
