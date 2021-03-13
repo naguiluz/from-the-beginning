@@ -9,3 +9,4 @@ In "dictionary" I learned how to create key value pairs and set them into a dict
 In "while loop" I very simply applied the while loop structure to a number to carry out a brief sequence of addition. 3/11/21
 
 In "guessing game" I applies a combination of booleans, while loops, and if statements to create a 3 guess mini game to find a secret word. (It's not a very fun game to play, but making it sure was.) 3/11/21
+In "what year were you born" I practiced my if statements by creating a short program that asks how old you are and calculates what year you were born. It can correct itself by asking a follow up question of one year earlier with a tweaked equation. (This is to account for people who already had their birthday this year!) 3/12/2021
