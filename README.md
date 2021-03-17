@@ -26,6 +26,9 @@
 
   In "nested loop" I learned how to use a nested for loop inside of another for loop to print out each value separately in a set of lists, rather than just printing the whole lists together. 3/15/2021
 
+In "student" and "classes" I learned how to create a class and define values for objects, and then how to import them into a separate file to be used in a program. 3/16/2021
+
+In "question" and "multiple choice quiz" I used a class to establish what the questions would include. Then I imported that class, applied arrays to a function, and used for loops and an if statement to ask each question and add points to the score before printing out the results. 3/16/2021 
   In "try except" I learned how to use the try/except functions to run a program that will give a specific output if a certain error is made. 3/15/2021
 
   In "translator" I learned how to create a function that combines for loops and if statements to see if a user's input contains specific characters(in this case I used vowels) and change those inputs out with a different character(x) set in the program. This results in a print out of the "translation" of the test language. 3/15/2021
