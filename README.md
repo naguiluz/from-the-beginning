@@ -1,3 +1,6 @@
+  This is my record of all my programs from my first set of tutorials, and notes I wrote about them. Sorry about the strange order they're presented in. I can't seem to figure out how they're sorted by github.
+  
+  
   In "madlib" I learned how to take user inputs and output them into my printed strings. 3/9/21
 
   In "how long until 100" I learned that I need to convert numbers into integers in order to do math with them, and then convert those numbers into strings so that they can be printed properly. 3/9/21
