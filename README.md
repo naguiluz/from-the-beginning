@@ -32,3 +32,7 @@ In "question" and "multiple choice quiz" I used a class to establish what the qu
   In "try except" I learned how to use the try/except functions to run a program that will give a specific output if a certain error is made. 3/15/2021
 
   In "translator" I learned how to create a function that combines for loops and if statements to see if a user's input contains specific characters(in this case I used vowels) and change those inputs out with a different character(x) set in the program. This results in a print out of the "translation" of the test language. 3/15/2021
+
+In "honor roll objfun" and "Student_objfun" I learned how to add functions into my classes so that I can carry out additional functions in a program to get extra information not explicitly defined in the objects attributes. 3/17/2021
+
+In "inheritence_chefs" and the related "chef_objfun" and "chinese_chef_objfun" I learned how to inherit the properties and functions of one class within another, and use both to carry out functions in separate programs. 3/17/2021
