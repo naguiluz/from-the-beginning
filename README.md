@@ -1,4 +1,4 @@
-  This is my record of all my programs from my first set of tutorials, and notes I wrote about them. Sorry about the strange order they're presented in. I can't seem to figure out how they're sorted by github.
+  This is my record of all my programs from my first set of tutorials, and notes I wrote about them. Sorry about the strange order they're presented in. I can't seem to figure out how they're sorted by github. A big thank you to freeCodeCamp and Mike Dane. Really great tutorials to start from no previous knowledge. Can't wait to learn more!
   
   
   In "madlib" I learned how to take user inputs and output them into my printed strings. 3/9/21
